@@ -1,0 +1,74 @@
+// Typography
+// font: font-weight font-size/line-height font-family;
+$heading-font-display:
+  600 36px/52px 'Inter',
+  sans-serif;
+$heading-font-large:
+  600 28px/32px 'Inter',
+  sans-serif;
+$heading-font-medium:
+  600 24px/28px 'Inter',
+  sans-serif;
+$heading-font-small:
+  600 20px/24px 'Inter',
+  sans-serif;
+
+$label-font-display:
+  600 16px/24px 'Inter',
+  sans-serif;
+$label-font-large:
+  600 14px/20px 'Inter',
+  sans-serif;
+$label-font-medium:
+  600 12px/16px 'Inter',
+  sans-serif;
+$label-font-small:
+  600 10px/16px 'Inter',
+  sans-serif;
+
+$value-font-large:
+  600 24px/32px 'Inter',
+  sans-serif;
+
+$paragraph-font-display:
+  400 16px/20px 'Inter',
+  sans-serif;
+$paragraph-font-large:
+  400 14px/20px 'Inter',
+  sans-serif;
+$paragraph-font-medium-12:
+  400 12px/16px 'Inter',
+  sans-serif;
+$paragraph-font-bold-12:
+  400 12px/16px 'Inter',
+  sans-serif;
+$paragraph-font-medium-10:
+  400 10px/16px 'Inter',
+  sans-serif;
+
+$body-mini-medium:
+  500 10px/16px 'Inter',
+  sans-serif;
+$body-small-medium:
+  500 13px/20px 'Inter',
+  sans-serif;
+
+// TODO: favor usage of updated font variables
+$font-size-base: 16px;
+
+$font-size-10: 10px;
+$font-size-12: 12px;
+$font-size-14: 14px;
+$font-size-16: $font-size-base;
+$font-size-18: 18px;
+$font-size-20: 20px;
+
+$font-weight-1: 100;
+$font-weight-2: 200;
+$font-weight-3: 300;
+$font-weight-4: 400;
+$font-weight-5: 500;
+$font-weight-6: 600;
+$font-weight-7: 700;
+$font-weight-8: 800;
+$font-weight-9: 900;
